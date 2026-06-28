@@ -1,0 +1,7 @@
+Claim under test : <specific thing the artifact asserts is true>
+Smallest world   : <minimal scenario / fixtures that exercise it>
+Planted trap     : <input that makes a weak version produce a wrong/confident answer>
+Baseline         : <naive approach, run on the same input>
+Instrument       : <diff / harness / status code / stress invariant / revert-and-rerun>
+Pass criterion   : <what result would falsify the claim>
+Coverage note    : <what this test does not establish>

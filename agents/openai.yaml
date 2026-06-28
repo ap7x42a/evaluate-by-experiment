@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evaluate by Experiment"
+  short_description: "Evaluate contestable artifacts with falsifiable tests."
+  default_prompt: "Use Evaluate by Experiment to test a contestable artifact or claim with a smallest failing world, naive baseline, and scoring instrument."
