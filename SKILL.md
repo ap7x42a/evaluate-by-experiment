@@ -6,11 +6,8 @@ description: >-
   work" claim — by building a falsifiable test instead of offering an opinion.
   Use it whenever you're asked "is this any good / will this work / what do you
   think of this / can you improve this" about something whose quality is arguable
-  and where a plausible-sounding answer would be cheap and unverifiable. Read the
-  standard the artifact is supposed to meet, reconstruct the smallest world in
-  which its central claim could fail, run a naive baseline against the same case,
-  and let an instrument score the result. Skip it for simple factual lookups or
-  matters of pure taste with no testable claim.
+  and where a plausible-sounding answer would be cheap and unverifiable. Skip it
+  for simple factual lookups or matters of pure taste with no testable claim.
 compatibility: Requires Python 3.8+ for the optional plan checker.
 metadata:
   self_test: "python3 scripts/self_test.py"
